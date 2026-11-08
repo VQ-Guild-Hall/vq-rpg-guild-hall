@@ -1,1 +1,1 @@
-# vq-rpg-guild-hall
+# VQ Guild Hall
